@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="open_camera_text">Open camera</string>
+    <string name="save_text">Save</string>
+</resources>
